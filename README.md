@@ -1,7 +1,7 @@
 # Hi there, I'm Saniya! 👋
 
 I'm a passionate Data Scientist and Computer Engineer currently working at In4. Welcome to my GitHub profile! Here you'll find a collection of my projects, ranging from data analysis and machine learning to software development and computer engineering.
-
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F777645060659834687%2F&psig=AOvVaw3JL4x9mAHkagTKuXscDSHf&ust=1714817767349000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiT2ZKg8YUDFQAAAAAdAAAAABAE)
 ## About Me
 
 - 🔭 I’m currently working on enhancing my skills in machine learning algorithms and data visualization techniques.
