@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="[(https://i.pinimg.com/originals/ba/fc/cd/bafccd3d93e77137e7753face3eefc69.gif)" alt="Sales Forecasting">
+<img src="[(https://i.pinimg.com/originals/ba/fc/cd/bafccd3d93e77137e7753face3eefc69.gif)">
 <p align="left">
 </p>
 
