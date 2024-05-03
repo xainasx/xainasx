@@ -1,4 +1,4 @@
-# Hi there, I'm xainasx! 👋
+# Hi there, I'm Saniya! 👋
 
 I'm a passionate Data Scientist and Computer Engineer currently working at In4. Welcome to my GitHub profile! Here you'll find a collection of my projects, ranging from data analysis and machine learning to software development and computer engineering.
 
@@ -8,7 +8,7 @@ I'm a passionate Data Scientist and Computer Engineer currently working at In4. 
 - 🌱 I’m currently learning about advanced deep learning architectures and cloud computing.
 - 👯 I’m looking to collaborate on projects involving data analysis, predictive modeling, and software development.
 - 💬 Ask me about anything related to data science, computer engineering, or technology in general!
-- 📫 How to reach me: [LinkedIn]([(https://www.linkedin.com/in/saniya-malkan-ahmed/))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - 😄 Pronouns: She/Her
 
 ## Skills
@@ -24,9 +24,12 @@ I'm a passionate Data Scientist and Computer Engineer currently working at In4. 
 
 Here are some of the projects I've worked on:
 
-1. [Predictive Analytics for Sales Forecasting]): Developed a machine learning model to forecast sales based on historical data, achieving a RMSE of less than 5%.
+1. [Predictive Analytics for Sales Forecasting](link-to-project): Developed a machine learning model to forecast sales based on historical data, achieving a RMSE of less than 5%.
+   ![Sales Forecasting](https://media.giphy.com/media/26ufnwz3wDUli2cH6/giphy.gif)
 2. [Sentiment Analysis on Social Media Data](link-to-project): Analyzed Twitter data using NLP techniques to understand public sentiment towards a particular product.
+   ![Sentiment Analysis](https://media.giphy.com/media/3o6ZtlCISaMwFrAkgY/giphy.gif)
 3. [Real-Time Object Detection using YOLO](link-to-project): Implemented YOLOv4 for real-time object detection in images and videos.
+   ![Object Detection](https://media.giphy.com/media/3oKIPwtkI2HQd2EzTW/giphy.gif)
 
 Feel free to explore my repositories to learn more about my work!
 
@@ -36,23 +39,8 @@ Feel free to explore my repositories to learn more about my work!
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/saniya-malkan-ahmed/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 Thanks for visiting my profile! 😊
-### Hi there 👋
 
-<!--
-**xainasx/xainasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
